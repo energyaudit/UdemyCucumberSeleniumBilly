@@ -1,0 +1,18 @@
+
+
+Expect txt exist= truechrome SUCCESS
+Test date and time is:02/12/2019 01:32:09
+51CA  chrome SUCCESS
+Test date and time is:02/12/2019 11:17:57
+51CA  chrome SUCCESS
+Test date and time is:02/12/2019 13:41:27
+51CA  chrome verified gas price >0 SUCCESS
+Test date and time is:02/12/2019 13:45:15
+51CA  chrome verified gas price >0 SUCCESS
+Test date and time is:02/12/2019 15:15:09
+51CA  chrome verified gas price >0 SUCCESS
+Test date and time is:02/13/2019 09:59:40
+Switch to window beforechrome SUCCESS
+Test date and time is:02/13/2019 10:02:36
+Switch to window beforechrome SUCCESS
+Test date and time is:02/13/2019 10:21:02

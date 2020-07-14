@@ -1,0 +1,167 @@
+
+TestCase1 SUCCESS
+Test date and time is:01/24/2019 13:23:03
+51CAchrome SUCCESS
+Test date and time is:01/24/2019 16:42:35
+TestCase1 SUCCESS
+Test date and time is:01/24/2019 23:39:10
+TestCase1 SUCCESS
+Test date and time is:01/24/2019 23:39:38
+TestCase1 SUCCESS
+Test date and time is:02/01/2019 11:16:02
+FAcebook  chrome SUCCESS
+Test date and time is:02/11/2019 23:06:06
+FAcebook  chrome SUCCESS
+Test date and time is:02/11/2019 23:16:32
+
+Expect txt exist= truechrome SUCCESS
+Test date and time is:02/12/2019 01:32:09
+51CA  chrome SUCCESS
+Test date and time is:02/12/2019 11:17:57
+51CA  chrome SUCCESS
+Test date and time is:02/12/2019 13:41:27
+51CA  chrome verified gas price >0 SUCCESS
+Test date and time is:02/12/2019 13:45:15
+51CA  chrome verified gas price >0 SUCCESS
+Test date and time is:02/12/2019 15:15:09
+51CA  chrome verified gas price >0 SUCCESS
+Test date and time is:02/13/2019 09:59:40
+Switch to window beforechrome SUCCESS
+Test date and time is:02/13/2019 10:02:36
+Switch to window beforechrome SUCCESS
+Test date and time is:02/13/2019 10:21:02
+
+Expect txt exist= truechrome SUCCESS
+Test date and time is:02/12/2019 01:32:09
+51CA  chrome SUCCESS
+Test date and time is:02/12/2019 11:17:57
+51CA  chrome SUCCESS
+Test date and time is:02/12/2019 13:41:27
+51CA  chrome verified gas price >0 SUCCESS
+Test date and time is:02/12/2019 13:45:15
+51CA  chrome verified gas price >0 SUCCESS
+Test date and time is:02/12/2019 15:15:09
+51CA  chrome verified gas price >0 SUCCESS
+Test date and time is:02/13/2019 09:59:40
+Switch to window beforechrome SUCCESS
+Test date and time is:02/13/2019 10:02:36
+Switch to window beforechrome SUCCESS
+Test date and time is:02/13/2019 10:21:02{"dieVersion":2,"value":1}
+ API test data API Response Time success SUCCESS
+Test date and time is:09/09/2019 18:41:33
+Assert API test code success SUCCESS
+Test date and time is:04/12/2020 12:49:50
+Assert API test data write to jason file success SUCCESS
+Test date and time is:04/12/2020 13:07:33
+Assert API test data write to jason file success SUCCESS
+Test date and time is:04/12/2020 13:10:00
+Assert API test data write to jason file success SUCCESS
+Test date and time is:04/12/2020 13:12:53
+Assert API test data successaccess_token:eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik5FRXdSREZGTVRjMVFVTTNSVEF6TURkQk9FRkdSRGcxTnpVNE9UUkNNMFU1UmtNelF6YzFOUSJ9.eyJpc3MiOiJodHRwczovL2xveWFsdHlvbmUtc2FuZGJveC1waW4uYXV0aDAuY29tLyIsInN1YiI6IlYyV2tldzFOZWlXUVVnQW5teUdVNG1uQUhZdjFqVFBNQGNsaWVudHMiLCJhdWQiOiJodHRwczovL3BhcnRuZXJzLmxveWFsdHkuY29tIiwiaWF0IjoxNTg2NzExNjc5LCJleHAiOjE1ODY3OTgwNzksImF6cCI6IlYyV2tldzFOZWlXUVVnQW5teUdVNG1uQUhZdjFqVFBNIiwic2NvcGUiOiJyZWdpb25hbC1vZmZlcnM6Z2V0LXJlZ2lvbmFsLW9mZmVycyIsImd0eSI6ImNsaWVudC1jcmVkZW50aWFscyJ9.pTsZ4DqpPDscld9E9cgbtX93bUB158kmeTUrYL_Tw4-JjxFKsATggw2LGrCFpFIl6eKN708Bswoj8gP8zuK6jsIdjtbSEXQJhxHNqnWzzcVvbPLceJNv_Otbao6KoB3roeuLQoeJ6-hzWzNv0dkTB5s67u8qVonnAFqhW5430ZGse9jwK2jB7z8w21tnvsVAjnh3RgBmxRqoJr5dDvjnSewil86sX0lt9I5GiVd_1mE1DrIydL9klMOJltAlfSK5l30lyZ3SJtTXPo-54tgCD41wntofXRVhqJ4eVoQbQSoEyAelrg8IhUNpSs4el72l0XcIeToCMkjU7EEl_FmL8gtoken_type:Bearer SUCCESS
+Test date and time is:04/12/2020 13:14:38
+Assert API test header success SUCCESS
+Test date and time is:04/12/2020 13:14:39
+Assert API test body size success SUCCESS
+Test date and time is:04/12/2020 13:14:40
+Assert API test code success SUCCESS
+Test date and time is:04/12/2020 13:14:41
+Assert API test data successaccess_token:eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik5FRXdSREZGTVRjMVFVTTNSVEF6TURkQk9FRkdSRGcxTnpVNE9UUkNNMFU1UmtNelF6YzFOUSJ9.eyJpc3MiOiJodHRwczovL2xveWFsdHlvbmUtc2FuZGJveC1waW4uYXV0aDAuY29tLyIsInN1YiI6IlYyV2tldzFOZWlXUVVnQW5teUdVNG1uQUhZdjFqVFBNQGNsaWVudHMiLCJhdWQiOiJodHRwczovL3BhcnRuZXJzLmxveWFsdHkuY29tIiwiaWF0IjoxNTg2NzExODM1LCJleHAiOjE1ODY3OTgyMzUsImF6cCI6IlYyV2tldzFOZWlXUVVnQW5teUdVNG1uQUhZdjFqVFBNIiwic2NvcGUiOiJyZWdpb25hbC1vZmZlcnM6Z2V0LXJlZ2lvbmFsLW9mZmVycyIsImd0eSI6ImNsaWVudC1jcmVkZW50aWFscyJ9.SYBLJNrUzJcL3fA9yJjx4d3XXAlmCdjDaFjq58QmY_bDcE4L9DyMCS3dpr2t65wuZwa7PNwaoonIul_GamiUUFFWHT8g2VGHKoPwp_5Hbg5tuJt6Bj6Bgv8QhRo3wKQVNPRckTOd-OEXHZ3kogtD_bxZZ0bJHjjUyrDB3fkDd_QJHL486Ly3YYz0ydqc5KWsuLcJukDRLcteq0MbZQfdasZDtpyR8AmZ-Sk4pTrYDazUAvPko4e_B1ZX5lDLVV4UMJLrenQNQe8S6wCPPipHqXLzX8IkubC3zplPKuEFeJEBYq9bbcEwBQ7YjeuX2IketyIUUoOmNVlhsKY1xpU-iAtoken_type:Bearer SUCCESS
+Test date and time is:04/12/2020 13:17:14
+Assert API test header success SUCCESS
+Test date and time is:04/12/2020 13:17:14
+Assert API test body size success SUCCESS
+Test date and time is:04/12/2020 13:17:15
+Assert API test code success SUCCESS
+Test date and time is:04/12/2020 13:17:16
+Assert API test code success SUCCESS
+Test date and time is:04/12/2020 13:19:09
+ API test data analysis result success SUCCESS
+Test date and time is:04/12/2020 13:19:09
+ API test data analysis result success SUCCESS
+Test date and time is:04/12/2020 13:19:09
+Read json file from resource folder success SUCCESS
+Test date and time is:04/12/2020 13:19:09
+ API test data analysis result success SUCCESS
+Test date and time is:04/12/2020 13:19:09
+ API test data analysis result success SUCCESS
+Test date and time is:04/12/2020 13:19:09
+Assert API test code success SUCCESS
+Test date and time is:04/12/2020 13:19:09
+Assert API test code success SUCCESS
+Test date and time is:04/12/2020 13:21:12
+ API test data analysis result success SUCCESS
+Test date and time is:04/12/2020 13:21:12
+ API test data analysis result success SUCCESS
+Test date and time is:04/12/2020 13:21:12
+Read json file from resource folder success SUCCESS
+Test date and time is:04/12/2020 13:21:12
+ API test data analysis result success SUCCESS
+Test date and time is:04/12/2020 13:21:12
+ API test data analysis result success SUCCESS
+Test date and time is:04/12/2020 13:21:12
+Assert API test code success SUCCESS
+Test date and time is:04/12/2020 13:21:12
+ API test data BODY URI1 success result is:{"dieVersion":3,"value":6}2 SUCCESS
+Test date and time is:04/12/2020 13:25:05
+ API test data BODY URI1 success result is:{"dieVersion":3,"value":2}6 SUCCESS
+Test date and time is:04/12/2020 13:25:05
+ API test data BODY URI1 success result is:{"dieVersion":3,"value":2}5 SUCCESS
+Test date and time is:04/12/2020 13:25:06
+ API test data BODY URI1 success result is:{"dieVersion":3,"value":2}3 SUCCESS
+Test date and time is:04/12/2020 13:25:06
+ API test data BODY URI1 success result is:{"dieVersion":3,"value":6}5 SUCCESS
+Test date and time is:04/12/2020 13:25:07
+ API test data BODY URI1 success result is:{"dieVersion":3,"value":5}3 SUCCESS
+Test date and time is:04/12/2020 13:25:07
+ API test data BODY URI1 success result is:{"dieVersion":3,"value":5}2 SUCCESS
+Test date and time is:04/12/2020 13:25:08
+ API test data BODY URI1 success result is:{"dieVersion":3,"value":6}3 SUCCESS
+Test date and time is:04/12/2020 13:25:08
+ API test data BODY URI1 success result is:{"dieVersion":3,"value":1}6 SUCCESS
+Test date and time is:04/12/2020 13:25:09
+ API test data BODY URI1 success result is:{"dieVersion":3,"value":6}1 SUCCESS
+Test date and time is:04/12/2020 13:25:10
+ API test data BODY URI1 success result is:{"dieVersion":3,"value":6}5 SUCCESS
+Test date and time is:04/12/2020 13:25:10
+ API test data BODY URI1 success result is:{"dieVersion":3,"value":1}3 SUCCESS
+Test date and time is:04/12/2020 13:25:11
+ API test data BODY URI1 success result is:{"dieVersion":3,"value":5}6 SUCCESS
+Test date and time is:04/12/2020 13:25:11
+ API test data BODY URI1 success result is:{"dieVersion":3,"value":2}1 SUCCESS
+Test date and time is:04/12/2020 13:25:12
+ API test data BODY URI1 success result is:{"dieVersion":3,"value":2}5 SUCCESS
+Test date and time is:04/12/2020 13:25:12
+ API test data BODY URI1 success result is:{"dieVersion":3,"value":3}2 SUCCESS
+Test date and time is:04/12/2020 13:25:13
+ API test data BODY URI1 success result is:{"dieVersion":3,"value":5}5 SUCCESS
+Test date and time is:04/12/2020 13:25:13
+ API test data BODY URI1 success result is:{"dieVersion":3,"value":1}2 SUCCESS
+Test date and time is:04/12/2020 13:25:14
+ API test data BODY URI1 success result is:{"dieVersion":3,"value":6}2 SUCCESS
+Test date and time is:04/12/2020 13:25:14
+ API test data BODY URI1 success result is:{"dieVersion":3,"value":5}6 SUCCESS
+Test date and time is:04/12/2020 13:25:15
+Assert API test header content success SUCCESS
+Test date and time is:04/12/2020 13:56:34
+ API test data analysis result success SUCCESS
+Test date and time is:04/12/2020 14:12:56
+Assert API test data success SUCCESS
+Test date and time is:04/12/2020 14:15:35
+Assert API test data success SUCCESS
+Test date and time is:04/12/2020 14:18:08
+Assert API test header content success SUCCESS
+Test date and time is:04/12/2020 14:19:25
+ API test Test AUTH success SUCCESS
+Test date and time is:04/12/2020 14:19:26
+ API test data BODY success SUCCESS
+Test date and time is:04/12/2020 14:19:27
+Assert API test body size success SUCCESS
+Test date and time is:04/12/2020 14:19:29
+Assert API get data call getDataJpath success SUCCESS
+Test date and time is:04/12/2020 14:19:30
+ API test Test ShemaVerify success SUCCESS
+Test date and time is:04/12/2020 14:19:31
+ API test data API Response Time success SUCCESS
+Test date and time is:04/12/2020 14:19:40
+Assert API test code success SUCCESS
+Test date and time is:04/12/2020 14:19:41

@@ -1,0 +1,58 @@
+{"letter": {
+     "address": [
+          {
+               "translate": "yes",
+               "content": "Smith & Company Ltd."
+          },
+          {
+               "translate": "no",
+               "content": "Smithtown"
+          }
+     ],
+     "signature": "Paul Smith",
+     "weblink": "http://www.smith-company-ltd.com",
+     "logo": {
+          "address": "http://www.smith-company-ltd.com/logo.jpg",
+          "alt": "Logo of Smith and Company Ltd."
+     },
+     "salutation": {
+          "limit": 40,
+          "content": "Dear Daniel,"
+     },
+     "text": [
+          {
+               "component": [
+                    {
+                         "translate": "yes",
+                         "content": "XML Parser rules"
+                    },
+                    {
+                         "translate": "no",
+                         "content": "XML"
+                    }
+               ],
+               "emphasis": "SDL Trados Studio 2015",
+               "content": [
+                    "Thank you for sending us the information on",
+                    ". We like\r\nyour products and think they certainly represent the most powerful\r\ntranslation solution on the market. We especially like the",
+                    "options in the",
+                    "filter. It has helped us to\r\nset up support for our XML files in a flash. We have already\r\ndownloaded the latest version from your Customer Center."
+               ]
+          },
+          "We would like to order 50 licenses.\r\nPlease send us a quote. Keep up the good work!"
+     ],
+     "greetings": {
+          "minlength": 10,
+          "content": "Yours sincerely,"
+     },
+     "title": [
+          {
+               "maxlength": 10,
+               "content": "Quote Letter"
+          },
+          {
+               "maxlength": 40,
+               "content": "Quote Details"
+          }
+     ]
+}}

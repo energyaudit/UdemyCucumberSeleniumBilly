@@ -1,0 +1,27 @@
+HTTP Method:"POST",
+headers: {'Accept' : "application/json",
+            'Content-Type' : 'application/json',
+            requestContentType : JSON },
+Accept : "application/json",
+body: {
+                "templateId": "L1_LCBO_PROMO",
+                "channels": ["email", "sms"],
+                "locale": "en-CA",
+                "expireAfter": "2019-05-30T22:32:34Z",
+                "cardNumber": "803864716731671123",
+                "headers": {
+                    "from": "noreply@airmiles.ca",
+                    "to": ["jdoe@example.com"]
+                },
+                "payload": {
+                    "attributes": [{
+                            "name": "COLLECTOR.NAME",
+                            "values": ["Jane Doe"]
+                        },
+                        {
+                            "name": "COLLECTOR.NUMBER",
+                            "values": ["803864716731671123"]
+                        }
+                    ]
+                }
+            },

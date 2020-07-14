@@ -1,0 +1,25 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "title": "JsonPlaceHolder",
+    "description": "A response from JsonPlaceHolder",
+    "type": "object",
+    "properties": {
+        "userId": {
+            "description": "The unique identifier for a user",
+            "type": "integer"
+        },
+        "id": {
+            "description": "The unique identifier for entry",
+            "type": "integer"
+        },
+        "title": {
+            "description": "Title of the entry",
+            "type": "string"
+        },
+        "body": {
+            "description": "body of the entry",
+            "type": "string"
+        }
+    },
+    "required": ["userId", "id", "title", "body"]
+}

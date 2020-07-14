@@ -1,0 +1,32 @@
+
+TestCase1 SUCCESS
+Test date and time is:01/24/2019 13:23:03
+51CAchrome SUCCESS
+Test date and time is:01/24/2019 16:42:35
+TestCase1 SUCCESS
+Test date and time is:01/24/2019 23:39:10
+TestCase1 SUCCESS
+Test date and time is:01/24/2019 23:39:38
+TestCase1 SUCCESS
+Test date and time is:02/01/2019 11:16:02
+FAcebook  chrome SUCCESS
+Test date and time is:02/11/2019 23:06:06
+FAcebook  chrome SUCCESS
+Test date and time is:02/11/2019 23:16:32
+
+Expect txt exist= truechrome SUCCESS
+Test date and time is:02/12/2019 01:32:09
+51CA  chrome SUCCESS
+Test date and time is:02/12/2019 11:17:57
+51CA  chrome SUCCESS
+Test date and time is:02/12/2019 13:41:27
+51CA  chrome verified gas price >0 SUCCESS
+Test date and time is:02/12/2019 13:45:15
+51CA  chrome verified gas price >0 SUCCESS
+Test date and time is:02/12/2019 15:15:09
+51CA  chrome verified gas price >0 SUCCESS
+Test date and time is:02/13/2019 09:59:40
+Switch to window beforechrome SUCCESS
+Test date and time is:02/13/2019 10:02:36
+Switch to window beforechrome SUCCESS
+Test date and time is:02/13/2019 10:21:02
