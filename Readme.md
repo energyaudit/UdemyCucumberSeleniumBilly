@@ -1,5 +1,5 @@
 # SeleniumWithCucumber
-This is an sample project to demonstrate how to work with Selenium and cucumber for Java
+This is just an copied sample project from Karthik KK udemy course: "Selenium and cucumber for Java" and changed some code
 
 ~~~~
 # Important
@@ -28,5 +28,4 @@ https://www.youtube.com/playlist?list=PL6tu16kXT9PpteusHGISu_lHcV6MbBtA6
 ## Cucumber BDD video Series (Udemy)
 https://www.udemy.com/cucumber-with-selenium/
 
-### For more articles and videos
-Visit http://www.executeautomation.com
+
